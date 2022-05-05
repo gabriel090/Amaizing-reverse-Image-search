@@ -1,0 +1,6 @@
+AI : Reverse image seage
+
+DATA SET 
+-Cifar -10 dataset consist of 60000 32X32 imaages in 10 classes with 6000 image per classes
+- The dataset is divided into five batches and one test batch each with 10000 images.
+- The test batch contains exactly 1000 randomly selected images for each class. The training batches contains the remaining image s in random order, but some trainning batches may contain more images from one class than another. Between them , the batches contain exactly 5000 images from each class.
